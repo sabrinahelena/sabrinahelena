@@ -1,4 +1,10 @@
-### Oiii, eu sou a Sabrina!
+### heey 🎈
+
+- 👩‍🎓 i'm currently studying at digital house br 
+- 📘 i'm currently learning git & github
+- 🤗 pronouns: she/her
+- ✨ i'm 18y
+- 🌆 belo horizonte, minas gerais
 
 <div align="center">
   <a href="https://github.com/sabrinahelena">
