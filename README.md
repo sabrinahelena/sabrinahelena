@@ -1,7 +1,7 @@
 ### heey 🎈
 
 - 👩‍🎓 i'm currently studying at digital house br 
-- 📘 i'm currently learning git & github
+- 📘 i'm currently learning git & c#
 - 🤗 pronouns: she/her
 - ✨ i'm 18y
 - 🌆 belo horizonte, minas gerais
@@ -16,7 +16,8 @@
   <img align="center" alt="Sabrina-Js" height="30" width="70" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Sabrina-C" height="30" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Sabrina-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  
+  <img align="center" alt="Sabrina-C#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+
   ##
   
   <div> 
