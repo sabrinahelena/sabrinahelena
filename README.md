@@ -1,4 +1,4 @@
-### heey 🎈
+### Hello World 🎈
 
 - 👩‍🎓 i'm currently studying at digital house br 
 - 📘 i'm currently learning git & c#
