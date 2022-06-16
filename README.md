@@ -1,7 +1,7 @@
 ### Hello World 🎈
 
 - 👩‍🎓 i'm currently studying at digital house br 
-- 📘 i'm currently learning c#, CSS3 and HTML5
+- 📘 i'm currently learning c# and HTML5
 - 🤗 pronouns: she/her
 - ✨ i'm 18y
 - 🌆 belo horizonte, minas gerais
