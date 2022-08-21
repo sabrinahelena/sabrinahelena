@@ -1,7 +1,7 @@
 ### Hello World 🎈
 
-- 👩‍🎓 i'm currently studying at digital house br 
-- 📘 i'm currently learning fullstack c# .NET
+- 👩‍🎓 i'm currently studying at PUC-MG
+- 📘 i'm currently learning fullstack c# .NET at Digital House BR
 - 🤗 pronouns: she/her
 - ✨ i'm 18y
 - 🌆 belo horizonte, minas gerais
