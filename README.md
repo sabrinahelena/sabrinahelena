@@ -1,6 +1,6 @@
 ### Hello World 🎈
 
-- 👩‍🎓 i'm currently studying at PUC-MG
+- 👩‍🎓 i'm currently studying computer engineering at PUC-MG
 - 📘 i'm currently learning fullstack c# .NET at Digital House BR
 - 🤗 pronouns: she/her
 - ✨ i'm 18y
