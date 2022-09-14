@@ -1,7 +1,7 @@
 ### Hello World 🎈
 
 - 👩‍🎓 i'm currently studying computer engineering at PUC-MG
-- 📘 i'm currently learning fullstack c# .NET at Digital House BR
+- 📘 i'm currently working at Mercado Eletrônico as intern
 - 🤗 pronouns: she/her
 - ✨ i'm 18y
 - 🌆 belo horizonte, minas gerais
