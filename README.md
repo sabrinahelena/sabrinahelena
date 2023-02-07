@@ -3,7 +3,7 @@
 - 👩‍🎓 i'm currently studying computer engineering at PUC-MG
 - 📘 i'm currently working at Mercado Eletrônico as intern
 - 🤗 pronouns: she/her
-- ✨ i'm 18y
+- ✨ i'm 19y
 - 🌆 belo horizonte, minas gerais
 
 <div align="center">
