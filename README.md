@@ -1,7 +1,7 @@
 ### Hello World 🎈
 
 - 👩‍🎓 i'm currently studying computer engineering at PUC-MG
-- 📘 i'm currently working at Mercado Eletrônico as intern
+- 📘 i'm currently working at Mercado Eletrônico as backend developer
 - 🤗 pronouns: she/her
 - ✨ i'm 19y
 - 🌆 belo horizonte, minas gerais
