@@ -1,6 +1,7 @@
 ### Hello World 🎈
 
 - 👩‍🎓 i'm currently studying computer engineering at PUC-MG
+- 👩‍🎓 I am a technician in biomedical equipment by CEFET-MG
 - 📘 i'm currently working at Mercado Eletrônico as backend developer
 - 🤗 pronouns: she/her
 - ✨ i'm 19y
